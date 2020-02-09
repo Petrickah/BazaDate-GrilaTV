@@ -1,0 +1,13 @@
+{
+    "sqltools.connections": [
+        {
+            "askForPassword": false,
+            "database": "grilatv",
+            "dialect": "MySQL",
+            "name": "GrilaTV MySQL",
+            "port": 3308,
+            "server": "localhost",
+            "username": "root"
+        }
+    ]
+}
