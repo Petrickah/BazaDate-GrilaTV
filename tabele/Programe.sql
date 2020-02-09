@@ -1,30 +1,90 @@
-INSERT INTO `Programe` VALUES (1, 14, 1, 2020, 10, 28, 12, 18);
-INSERT INTO `Programe` VALUES (2, 24, 2, 2020, 12, 30, 14, 10);
-INSERT INTO `Programe` VALUES (3, 20, 12, 2020, 13, 25, 14, 15);
-INSERT INTO `Programe` VALUES (4, 14, 10, 2020, 11, 27, 13, 20);
-INSERT INTO `Programe` VALUES (5, 14, 9, 2020, 16, 25, 18, 19);
-INSERT INTO `Programe` VALUES (6, 24, 9, 2020, 14, 35, 16, 27);
-INSERT INTO `Programe` VALUES (7, 14, 10, 2020, 12, 45, 13, 16);
-INSERT INTO `Programe` VALUES (8, 6, 2, 2020, 16, 29, 18, 24);
-INSERT INTO `Programe` VALUES (9, 19, 1, 2020, 18, 30, 20, 18);
-INSERT INTO `Programe` VALUES (10, 8, 3, 2020, 20, 35, 21, 37);
-INSERT INTO `Programe` VALUES (11, 11, 3, 2020, 21, 15, 22, 31);
-INSERT INTO `Programe` VALUES (12, 19, 1, 2020, 16, 29, 18, 42);
-INSERT INTO `Programe` VALUES (13, 14, 2, 2020, 19, 16, 21, 56);
-INSERT INTO `Programe` VALUES (14, 13, 1, 2020, 12, 4, 13, 17);
-INSERT INTO `Programe` VALUES (15, 14, 4, 2020, 14, 6, 16, 21);
-INSERT INTO `Programe` VALUES (16, 20, 4, 2020, 11, 15, 12, 22);
-INSERT INTO `Programe` VALUES (17, 21, 12, 2020, 9, 38, 10, 16);
-INSERT INTO `Programe` VALUES (18, 16, 4, 2020, 6, 27, 7, 19);
-INSERT INTO `Programe` VALUES (19, 12, 1, 2020, 8, 41, 9, 30);
-INSERT INTO `Programe` VALUES (20, 21, 1, 2020, 11, 25, 12, 45);
-INSERT INTO `Programe` VALUES (21, 14, 1, 2020, 7, 28, 9, 37);
-INSERT INTO `Programe` VALUES (22, 14, 5, 2020, 7, 25, 8, 45);
-INSERT INTO `Programe` VALUES (23, 19, 5, 2020, 9, 26, 11, 18);
-INSERT INTO `Programe` VALUES (24, 19, 5, 2020, 12, 25, 13, 29);
-INSERT INTO `Programe` VALUES (25, 14, 7, 2020, 15, 29, 16, 23);
-INSERT INTO `Programe` VALUES (26, 14, 7, 2020, 13, 25, 14, 17);
-INSERT INTO `Programe` VALUES (27, 22, 6, 2020, 17, 16, 19, 27);
-INSERT INTO `Programe` VALUES (28, 23, 8, 2020, 12, 12, 13, 14);
-INSERT INTO `Programe` VALUES (29, 14, 6, 2020, 19, 25, 21, 20);
-INSERT INTO `Programe` VALUES (30, 22, 8, 2020, 20, 14, 22, 24);
+INSERT INTO `Programe`
+VALUES
+  (1, 14, 1, 2020, 10, 28, 12, 18);
+INSERT INTO `Programe`
+VALUES
+  (2, 24, 2, 2020, 12, 30, 14, 10);
+INSERT INTO `Programe`
+VALUES
+  (3, 20, 12, 2020, 13, 25, 14, 15);
+INSERT INTO `Programe`
+VALUES
+  (4, 14, 10, 2020, 11, 27, 13, 20);
+INSERT INTO `Programe`
+VALUES
+  (5, 14, 9, 2020, 16, 25, 18, 19);
+INSERT INTO `Programe`
+VALUES
+  (6, 24, 9, 2020, 14, 35, 16, 27);
+INSERT INTO `Programe`
+VALUES
+  (7, 14, 10, 2020, 12, 45, 13, 16);
+INSERT INTO `Programe`
+VALUES
+  (8, 6, 2, 2020, 16, 29, 18, 24);
+INSERT INTO `Programe`
+VALUES
+  (9, 19, 1, 2020, 18, 30, 20, 18);
+INSERT INTO `Programe`
+VALUES
+  (10, 8, 3, 2020, 20, 35, 21, 37);
+INSERT INTO `Programe`
+VALUES
+  (11, 11, 3, 2020, 21, 15, 22, 31);
+INSERT INTO `Programe`
+VALUES
+  (12, 19, 1, 2020, 16, 29, 18, 42);
+INSERT INTO `Programe`
+VALUES
+  (13, 14, 2, 2020, 19, 16, 21, 56);
+INSERT INTO `Programe`
+VALUES
+  (14, 13, 1, 2020, 12, 4, 13, 17);
+INSERT INTO `Programe`
+VALUES
+  (15, 14, 4, 2020, 14, 6, 16, 21);
+INSERT INTO `Programe`
+VALUES
+  (16, 20, 4, 2020, 11, 15, 12, 22);
+INSERT INTO `Programe`
+VALUES
+  (17, 21, 12, 2020, 9, 38, 10, 16);
+INSERT INTO `Programe`
+VALUES
+  (18, 16, 4, 2020, 6, 27, 7, 19);
+INSERT INTO `Programe`
+VALUES
+  (19, 12, 1, 2020, 8, 41, 9, 30);
+INSERT INTO `Programe`
+VALUES
+  (20, 21, 1, 2020, 11, 25, 12, 45);
+INSERT INTO `Programe`
+VALUES
+  (21, 14, 1, 2020, 7, 28, 9, 37);
+INSERT INTO `Programe`
+VALUES
+  (22, 14, 5, 2020, 7, 25, 8, 45);
+INSERT INTO `Programe`
+VALUES
+  (23, 19, 5, 2020, 9, 26, 11, 18);
+INSERT INTO `Programe`
+VALUES
+  (24, 19, 5, 2020, 12, 25, 13, 29);
+INSERT INTO `Programe`
+VALUES
+  (25, 14, 7, 2020, 15, 29, 16, 23);
+INSERT INTO `Programe`
+VALUES
+  (26, 14, 7, 2020, 13, 25, 14, 17);
+INSERT INTO `Programe`
+VALUES
+  (27, 22, 6, 2020, 17, 16, 19, 27);
+INSERT INTO `Programe`
+VALUES
+  (28, 23, 8, 2020, 12, 12, 13, 14);
+INSERT INTO `Programe`
+VALUES
+  (29, 14, 6, 2020, 19, 25, 21, 20);
+INSERT INTO `Programe`
+VALUES
+  (30, 22, 8, 2020, 20, 14, 22, 24);
