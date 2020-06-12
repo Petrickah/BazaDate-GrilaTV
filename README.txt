@@ -1,3 +1,4 @@
+Proiect realizat de Petre Tiberiu pentru cursul de Baze de date si Sisteme de Gestiune a Bazelor de Date.
 Documentație: fișierul Word "Proiect Baze de date.docx"
 - Acest fișier word conține două module:
     - Primul Modul este documentația proiectului de pe semestrul întâi
